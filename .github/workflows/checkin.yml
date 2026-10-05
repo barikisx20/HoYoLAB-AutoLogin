@@ -1,4 +1,4 @@
-name: HoYoLAB 自動チェックイン
+name: HoYoLAB 自動チェック
 
 on:
   schedule:
